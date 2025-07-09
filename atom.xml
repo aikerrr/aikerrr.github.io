@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://https://aikerrr.github.io</id>
+    <title>aiker</title>
+    <updated>2025-07-09T10:27:34.858Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://https://aikerrr.github.io"/>
+    <link rel="self" href="https://https://aikerrr.github.io/atom.xml"/>
+    <subtitle>现代化人类可读教程</subtitle>
+    <logo>https://https://aikerrr.github.io/images/avatar.png</logo>
+    <icon>https://https://aikerrr.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, aiker</rights>
+</feed>
